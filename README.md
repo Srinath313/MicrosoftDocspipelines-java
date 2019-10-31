@@ -1,4 +1,4 @@
-
+[![Build Status](https://andrejsrimsevics.visualstudio.com/WebAppDefault/_apis/build/status/AnRimkus.MicrosoftDocspipelines-java?branchName=master)](https://andrejsrimsevics.visualstudio.com/WebAppDefault/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
